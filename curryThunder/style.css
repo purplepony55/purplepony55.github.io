@@ -1,0 +1,64 @@
+p {
+	color: #001f25;
+	
+	}
+	
+h1 {
+	color: navy;
+	font-family: arial, serif;
+	text-align: center;
+	}
+	
+body{
+	background-color: #26596A
+	}
+	
+
+	
+head{
+background-color: #0F670F;
+}
+#randomtext{
+
+	border: 5px;
+	border-style: dashed;
+	border-width: 2px;
+	font-size: 1.5em;
+
+}
+
+.lorem{
+border: 5px;
+border-style: dashed;
+}
+
+
+#navbar{
+	top: 0;
+	left:0;
+	padding-top: 75px;
+	position: fixed;
+	background-color: #5a7178;
+	height: 100%;
+	}
+	
+	
+#navbar ul {
+list-style-type: none;
+}
+
+#navbar ul li: hover{
+}
+
+#bav bar ul li a{
+	text-decoration: none;
+	margin-left: -10px;
+}
+
+
+
+
+
+.main{
+	margin-left:150px;
+}
