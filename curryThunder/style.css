@@ -1,11 +1,12 @@
 p {
 	color: #001f25;
+	font-family: 'Source Code Pro' ;
 	
 	}
 	
 h1 {
-	color: navy;
-	font-family: 'VT323', ;
+	color: #142027;
+	font-family: 'VT323' ;
 	text-align: center;
 	padding-top: 50px;
 	}
@@ -30,10 +31,7 @@ background-color: #0F670F;
 
 }
 
-.lorem{
-border: 5px;
-border-style: dashed;
-}
+
 
 
 #navbar{
@@ -73,16 +71,25 @@ border-style: dashed;
 #navbar ul li a{
 	display: block;
 	text-decoration: none;
-	
+	font-family: 'VT323' ;
 	padding: 15px 15px;
 	color: #001f25;
 	
+	
 }
 
+#languages {
+	display:inline-block;
+	padding-right: 20px;
+	border: solid blue;
+}
+
+
 #main{
-	padding-top: 30px;
+	
 	margin: 20px 100px;
 	border: solid;
-	padding: 20px;
+	padding: 50px;
 	border-radius: 17px;
+	background-color: #F5D2C;
 }
