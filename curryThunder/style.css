@@ -8,30 +8,42 @@ h1 {
 	color: #142027;
 	font-family: 'VT323' ;
 	text-align: center;
-	padding-top: 50px;
+	padding: 50px;
+	background-color: #565595;
+	display: inline-block;
+	font-family: 'VT323' ;
 	}
 	
 body{
 	background-color: #26596A;
 	
 	}
+
 	
+#bios li	{
+	padding-bottom: 39px;
+
+}
+
+#bios h2{
+	color: #002402;
+}
 
 	
 head{
 background-color: #0F670F;
 }
 
-#randomtext{
 
-	border: 5px;
-	border-style: dashed;
-	border-width: 2px;
-	font-size: 1.5em;
+#main li{
+	font-family: 'Exo 2';
 
 }
 
-
+#picstitle{
+	font-family: 'Exo 2';
+	color: #142027;
+}
 
 
 #navbar{
@@ -80,8 +92,8 @@ background-color: #0F670F;
 
 #languages {
 	display:inline-block;
-	padding-right: 20px;
-	border: solid blue;
+	padding: 20px;
+	border: solid #003133;
 }
 
 
@@ -91,5 +103,10 @@ background-color: #0F670F;
 	border: solid;
 	padding: 50px;
 	border-radius: 17px;
-	background-color: #F5D2C;
+	background-color: #4C986D;
+}
+
+
+#welcome{
+	color: #0D4A4D;	
 }
