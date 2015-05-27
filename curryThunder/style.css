@@ -11,7 +11,7 @@ h1 {
 	padding: 50px;
 	background-color: #565595;
 	display: inline-block;
-	font-family: 'VT323' ;
+	
 	}
 	
 body{
@@ -94,6 +94,7 @@ background-color: #0F670F;
 	display:inline-block;
 	padding: 20px;
 	border: solid #003133;
+	margin-bottom: 30px;
 }
 
 
@@ -104,9 +105,28 @@ background-color: #0F670F;
 	padding: 50px;
 	border-radius: 17px;
 	background-color: #4C986D;
+	color: #001f25;
 }
 
 
 #welcome{
 	color: #0D4A4D;	
+	font-size: 200%
+}
+
+#jointeam{
+
+	
+	padding-bottom: 30px;
+	
+}
+
+
+
+#upcomingcomp{
+
+	padding-bottom: 30px;
+	padding-top: 25px; 
+	
+	
 }
