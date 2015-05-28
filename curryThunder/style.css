@@ -2,7 +2,11 @@ p {
 	color: #001f25;
 	font-family: 'Source Code Pro' ;
 	
-	}
+ }
+	
+	
+	
+	
 	
 h1 {
 	color: #142027;
@@ -12,27 +16,43 @@ h1 {
 	background-color: #565595;
 	display: inline-block;
 	
-	}
+  }
+	
+	
+	
+	
+	
 	
 body{
-	background-color: #26596A;
-	
+		background-color: #26596A;
 	}
 
 	
+	
+	
+	
 #bios li	{
-	padding-bottom: 39px;
+		padding-bottom: 39px;
 
-}
+		}
 
+		
+		
+		
 #bios h2{
-	color: #002402;
-}
+		color: #002402;
+		}
 
 	
+	
+	
+	
 head{
-background-color: #0F670F;
+	background-color: #0F670F;
 }
+
+
+
 
 
 #main li{
@@ -40,10 +60,16 @@ background-color: #0F670F;
 
 }
 
+
+
+
 #picstitle{
 	font-family: 'Exo 2';
 	color: #142027;
 }
+
+
+
 
 
 #navbar{
@@ -64,21 +90,28 @@ background-color: #0F670F;
 	list-style-type: none;
 }
 
+
 #navbar li{
 	float:left;
 }
+
+
+
 #navbar ul li a:hover {
 	background-color: white;
 	color: black;
 }
 
+
 #navbar ul li a:visited{
 	color: #001f25;
 }
 
+
 #navbar ul li a:link{
 	color: #001f25;
 }
+
 
 #navbar ul li a{
 	display: block;
@@ -90,12 +123,16 @@ background-color: #0F670F;
 	
 }
 
+
+
+
 #languages {
 	display:inline-block;
 	padding: 20px;
 	border: solid #003133;
 	margin-bottom: 30px;
 }
+
 
 
 #main{
@@ -109,14 +146,18 @@ background-color: #0F670F;
 }
 
 
+
+
 #welcome{
 	color: #0D4A4D;	
-	font-size: 200%
+	font-size: 200%;
 }
+
+
+
 
 #jointeam{
 
-	
 	padding-bottom: 30px;
 	
 }
@@ -129,4 +170,13 @@ background-color: #0F670F;
 	padding-top: 25px; 
 	
 	
+}
+
+
+
+
+img{
+
+padding: 35px;
+
 }
